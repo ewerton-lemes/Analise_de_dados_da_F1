@@ -9,8 +9,13 @@ Nessa análise foram usados os dados disponíveis em: https://www.kaggle.com/dat
 Usando esses dados, as seguintes perguntas foram respondidas:
 
 --> Quais e quantas são as nacionalidades dos pilotos de F1 que correram de 1950 a 2022?
+
 --> Quantos pilotos de cada nacinalidade correram na F1 1950 a 2022?
+
 --> Quais são os continentes de origem dos pilotos de F1 e qual teve a maior quantidade de pilotos?
+
 --> Quantos são e quais os nomes dos pilotos brasileiros que correram na F1 de 1950 e 2022?
+
+--> Quantos grandes prêmios cada brasileiro disputou?
 
 Então, vamos lá, explorar os dados sobre a F1.
