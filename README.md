@@ -18,4 +18,8 @@ Usando esses dados, as seguintes perguntas foram respondidas:
 
 --> Quantos grandes prêmios cada brasileiro disputou?
 
+--> Como os carros da F1 evoluiram com o tempo?
+
 Então, vamos lá, explorar os dados sobre a F1.
+
+Fique à vontade para usar os gráficos e e todo o jupyter notebook.
