@@ -22,4 +22,6 @@ Usando esses dados, as seguintes perguntas foram respondidas:
 
 Então, vamos lá, explorar os dados sobre a F1.
 
+No arquivo PDF estão as respostas das perguntas, sem as linhas de código.
+
 Fique à vontade para usar os gráficos e e todo o jupyter notebook.
